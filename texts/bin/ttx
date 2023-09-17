@@ -1,4 +1,4 @@
-#!/Users/akhilkumarreddymalapati/Desktop/Text_Summarizer/Text_Summarization/texts/bin/python3.11
+#!/Users/akhilkumarreddymalapati/Desktop/Text_Summarizer/Text_Summarization/texts/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
